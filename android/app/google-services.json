@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122517190958",
+    "project_id": "connect-dc849",
+    "storage_bucket": "connect-dc849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122517190958:android:d64ef1a0c25049783fa2bf",
+        "android_client_info": {
+          "package_name": "com.example.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122517190958-pg5qrt6u7hnoq0kn0i0u6q8s3d84594p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtw00tRxQmz-oMeh1iv6T42hqpBh_4GxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122517190958-pg5qrt6u7hnoq0kn0i0u6q8s3d84594p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
